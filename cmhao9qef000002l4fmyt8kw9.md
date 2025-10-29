@@ -31,7 +31,7 @@ In today’s challenge, we’re starting with something simple yet powerful — 
 * How to print formatted results
     
 
-## 💡 Problem Description
+## 💡Python Challenge Problem Description
 
 Write a Python program to find the **area of a circle** given its radius.
 
@@ -74,7 +74,7 @@ area = math.pi * (radius ** 2)
 print(f"The area of the circle with radius {radius} is {area:.2f}")
 ```
 
-## 🧮 Example Run
+## 🧮 Code Example Run
 
 **Input:**
 
@@ -92,7 +92,7 @@ Pretty neat, right? 🔥
 
 Python makes calculations like this super straightforward once you understand the syntax.
 
-## 💬 Extra Tip
+## 💬 Python Challenge Extra Tip
 
 You can simplify your output even more by using Python’s built-in `round()` function:
 
